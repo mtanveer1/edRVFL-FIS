@@ -2,8 +2,7 @@
 
 Please cite the following paper if you are using this code.
 
-Reference: M. Sajid, M. Tanveer, and P. N. Suganthan (2024). "Ensemble Deep Random Vector Functional Link Neural Network Based on Fuzzy Inference System”
-- Revision submitted in IEEE Transactions on Fuzzy Systems.
+Reference: M. Sajid, M. Tanveer, and P. N. Suganthan (2024). "Ensemble Deep Random Vector Functional Link Neural Network Based on Fuzzy Inference System”.  IEEE Transactions on Fuzzy Systems (Revision submitted).
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
