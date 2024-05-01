@@ -6,15 +6,19 @@ Reference: M. Sajid, M. Tanveer, and P. N. Suganthan (2024). "Ensemble Deep Rand
 - Revision submitted in IEEE Transactions on Fuzzy Systems.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 We have put a demo of the "edRVFL-FIS" model with the "cardiotocography_3clases" dataset
 We have three variants of edRVFL-FIS as follows:
 	1. edRVFL-FIS-K if you choose clus=1 in edRVFL_FIS_main.m file.
 	2. edRVFL-FIS-C if you choose clus=2 in edRVFL_FIS_main.m file.
 	3. edRVFL-FIS-R if you choose clus=3 in edRVFL_FIS_main.m file.
+ 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 The experimental procedures are executed on a computing system possessing MATLAB R2023a software, Intel(R) Xeon(R) Platinum 8260 CPU @ 2.30GHz, 2301 Mhz, 24 Core(s),
 48 Logical Processor(s) with 256 GB RAM on a Windows-10 operating platform.
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -30,6 +34,7 @@ option.NumFuzzyRule=15; %Number of fuzzy layer nodes/centers/rules
 option.C=1; %Regularization parameter
 
 Note: For deatiled parameters setting, please refer "Ensemble Deep Random Vector Functional Link Neural Network Based on Fuzzy Inference System" paper.
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 Description of files:
