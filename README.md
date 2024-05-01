@@ -57,11 +57,15 @@ Evaluate.m: Function to evaluate the accuracy.
 cardiotocography_3clases.mat: cardiotocography_3clases dataset used to execute the code.
 ________________________________________________________________
 Remarks:
+
 	1. The codes have been cleaned for better readability and documented, then re-run and checked the codes only in a few datasets, so if you find any bugs/issues, please write to M. Sajid (phd2101241003@iiti.ac.in).
+ 
 	2. For the detailed experimental setup, please follow our paper.  
 ________________________________________________________________
 Some parts of the codes have been taken from:
+
 	1. Shi, Qiushi, Rakesh Katuwal, Ponnuthurai N. Suganthan, and M. Tanveer. "Random vector functional link neural network based ensemble deep learning." Pattern Recognition 117 (2021): 107978.
+ 
 	2. Feng, Shuang, and CL Philip Chen. "Fuzzy broad learning system: A novel neuro-fuzzy model for regression and classification." IEEE transactions on cybernetics 50, no. 2 (2018): 414-424.
 
 01-May-2024
