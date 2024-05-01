@@ -35,7 +35,7 @@ option.C=1; %Regularization parameter
 
 Note: For deatiled parameters setting, please refer "Ensemble Deep Random Vector Functional Link Neural Network Based on Fuzzy Inference System" paper.
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 Description of files:
 ---------------------
