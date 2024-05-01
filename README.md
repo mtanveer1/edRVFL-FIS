@@ -7,9 +7,13 @@ Reference: M. Sajid, M. Tanveer, and P. N. Suganthan (2024). "Ensemble Deep Rand
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 We have put a demo of the "edRVFL-FIS" model with the "cardiotocography_3clases" dataset
+
 We have three variants of edRVFL-FIS as follows:
+
 	1. edRVFL-FIS-K if you choose clus=1 in edRVFL_FIS_main.m file.
+ 
 	2. edRVFL-FIS-C if you choose clus=2 in edRVFL_FIS_main.m file.
+ 
 	3. edRVFL-FIS-R if you choose clus=3 in edRVFL_FIS_main.m file.
  
 
