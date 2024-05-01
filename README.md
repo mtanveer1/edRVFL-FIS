@@ -27,13 +27,21 @@ The experimental procedures are executed on a computing system possessing MATLAB
 
 Demo Hyperparameter setting
 ---------------------------
+
 option.activation = 1; %Sigmoid Activation function
+
 option.scale = 1;
+
 option.renormal=1;
+
 option.normal_type=0; %(0 for batch normaliation and 1 for layer normalization)
+
 option.L=7; %Number of hidden layers
+
 option.N=810; %Number of hidden nodes
+
 option.NumFuzzyRule=15; %Number of fuzzy layer nodes/centers/rules
+
 option.C=1; %Regularization parameter
 
 Note: For deatiled parameters setting, please refer "Ensemble Deep Random Vector Functional Link Neural Network Based on Fuzzy Inference System" paper.
